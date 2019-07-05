@@ -1,5 +1,5 @@
 # .p3s-VsCode-Support
-Adds support for .p3s (Postal 3 Script's) in vscode!
+Adds basic syntax highlighting support for .p3s (Postal 3 Script's) in vscode!
 
 //////////////
 How To Install:
